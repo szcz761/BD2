@@ -1,2 +1,3 @@
-# Biala-Dama
-Robot klasy minisumo tworzony przez:  Szymona Czaje i Marka Żyśko
+# BD2
+Robot klasy minisumo tworzony przez:  Szymona Czaje
+Na podstawie robota: Biała-Dama współtworzonego z Markiem Żyśko.
