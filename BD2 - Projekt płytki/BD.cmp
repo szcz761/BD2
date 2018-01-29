@@ -1,0 +1,459 @@
+Cmp-Mod V01 Created by PcbNew   date = 2017-11-02 13:11:18
+
+BeginCmp
+TimeStamp = 58569D82
+Path = /58245F75
+Reference = R2;
+ValeurCmp = 1 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 585698C4
+Path = /582A7B43
+Reference = SP1;
+ValeurCmp = HCM1201X (BUZZER);
+IdModule  = Buzzers_Beepers:Buzzer_12x9.5RM7.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F66
+Path = /58237FDF
+Reference = U4;
+ValeurCmp = SHARP_40CM;
+IdModule  = warsztaty:GP2Y0D340K;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335EDB
+Path = /5824B143
+Reference = P5;
+ValeurCmp = PROGRAMAT;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335FD9
+Path = /582F2B3A
+Reference = U10;
+ValeurCmp = TB6612;
+IdModule  = warsztaty:TB6612;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335FF5
+Path = /582FE61E
+Reference = U12;
+ValeurCmp = TB6612;
+IdModule  = warsztaty:TB6612;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F3D
+Path = /5828CC7F
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335EBE
+Path = /58237CAB
+Reference = P1;
+ValeurCmp = bateria 7.4 V;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335EC6
+Path = /58309CE1
+Reference = P2;
+ValeurCmp = HC-06 (BT);
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335ECC
+Path = /582F2B49
+Reference = P3;
+ValeurCmp = SILNIK1;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335ED3
+Path = /58249F51
+Reference = P4;
+ValeurCmp = Modol startujacy;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335EE1
+Path = /582FE62E
+Reference = P7;
+ValeurCmp = SILNIK2;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F35
+Path = /5833EC61
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_DIP_x1_Slide;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F45
+Path = /58237DF8
+Reference = U1;
+ValeurCmp = LM1117;
+IdModule  = warsztaty:LM1117_SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F50
+Path = /58245D55
+Reference = U2;
+ValeurCmp = SHARP_40CM;
+IdModule  = warsztaty:GP2Y0D340K;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F5B
+Path = /58245F6E
+Reference = U3;
+ValeurCmp = SHARP_40CM;
+IdModule  = warsztaty:GP2Y0D340K;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F71
+Path = /58245B77
+Reference = U5;
+ValeurCmp = SHARP_40CM;
+IdModule  = warsztaty:GP2Y0D340K;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F79
+Path = /5823F09C
+Reference = U6;
+ValeurCmp = LM1117;
+IdModule  = warsztaty:LM1117_SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F81
+Path = /582382EB
+Reference = U7;
+ValeurCmp = KTIR0711S;
+IdModule  = warsztaty:KTIR0711S;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335F89
+Path = /5824A8EA
+Reference = U8;
+ValeurCmp = KTIR0711S;
+IdModule  = warsztaty:KTIR0711S;
+EndCmp
+
+BeginCmp
+TimeStamp = 58335FBD
+Path = /58224898
+Reference = U9;
+ValeurCmp = STM32F051C8Tx;
+IdModule  = STM:STM32F051C8T6;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D37
+Path = /58245D63
+Reference = C1;
+ValeurCmp = 1 uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D3C
+Path = /58245F7C
+Reference = C2;
+ValeurCmp = 1 uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D41
+Path = /582381DE
+Reference = C3;
+ValeurCmp = 1 uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D46
+Path = /58245B83
+Reference = C4;
+ValeurCmp = 1 uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D4B
+Path = /5828DD4C
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D5F
+Path = /58288DD5
+Reference = C13;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D64
+Path = /5827422B
+Reference = C14;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D69
+Path = /582F2B4F
+Reference = C16;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D6E
+Path = /582FE634
+Reference = C18;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D73
+Path = /582F2B55
+Reference = C19;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D78
+Path = /582FE63A
+Reference = C22;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D7D
+Path = /58245D5C
+Reference = R1;
+ValeurCmp = 1 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D87
+Path = /58238075
+Reference = R3;
+ValeurCmp = 1 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D8C
+Path = /58245B7D
+Reference = R4;
+ValeurCmp = 1 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D91
+Path = /582991C8
+Reference = R5;
+ValeurCmp = 100 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569D96
+Path = /58237D2A
+Reference = R6;
+ValeurCmp = 100 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569DAF
+Path = /5830340C
+Reference = R11;
+ValeurCmp = 100 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 58569DB4
+Path = /58315180
+Reference = R12;
+ValeurCmp = 100 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5856A342
+Path = /58237ED9
+Reference = C5;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:Tantalum_Case-A_EIA-3216-18_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 5856A347
+Path = /58237E83
+Reference = C6;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:Tantalum_Case-A_EIA-3216-18_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 5856A34C
+Path = /5823F0A8
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:Tantalum_Case-A_EIA-3216-18_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 5856A351
+Path = /5823F0A2
+Reference = C8;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:Tantalum_Case-A_EIA-3216-18_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 5856A356
+Path = /582F2B6D
+Reference = C15;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:Tantalum_Case-A_EIA-3216-18_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 5856A35B
+Path = /582FE6A5
+Reference = C17;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:Tantalum_Case-A_EIA-3216-18_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 5856A360
+Path = /582F2B73
+Reference = C20;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:Tantalum_Case-A_EIA-3216-18_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 5856A365
+Path = /582FE6AB
+Reference = C21;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_Tantalum_SMD:Tantalum_Case-A_EIA-3216-18_Hand;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2CF
+Path = /5827430E
+Reference = C10;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2D4
+Path = /5827444B
+Reference = C11;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2D9
+Path = /582743A7
+Reference = C12;
+ValeurCmp = 4.7uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2DE
+Path = /58237D7F
+Reference = D1;
+ValeurCmp = LED0;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2E8
+Path = /5829B115
+Reference = DB1;
+ValeurCmp = LED1;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2E9
+Path = /582991CE
+Reference = DN1;
+ValeurCmp = LED2;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2EE
+Path = /582384D0
+Reference = R7;
+ValeurCmp = 220 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2F3
+Path = /582383FF
+Reference = R8;
+ValeurCmp = 10 kOhm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2F8
+Path = /5824A8FC
+Reference = R9;
+ValeurCmp = 220 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59F0D2FD
+Path = /5824A8F6
+Reference = R10;
+ValeurCmp = 10 kOhm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+EndListe
